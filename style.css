@@ -1,0 +1,16 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightcoral;
+}
+
+.container {
+    height: 100vh;
+    background-color: yellowgreen;
+    align-content: center;
+}
